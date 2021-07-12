@@ -1,0 +1,22 @@
+" A picture is worth a thousand words"
+
+Topic Covered-
+AIMS Grid Project Planning, Power BI, SQL.
+
+Insights Goal - This dashboard will help in finding out the Revenue Numbers, Sales Quantity, Revenue Trends, Weakest Areas in sales. 
+
+Problem - 
+A Hardware Company supplies peripherals to different stores, The head office of the company is in Mumbai and the company has a regional office all over India. As the company is growing, it is having issues with the Zonal Business insights. 
+Sales are gradually declining.
+
+Project Planning using aims grade - 
+Purpose - To reduce manual time spend on sales data gathering.
+Stake Holders - Sales Team, Marketing Team, Data Analyst.
+End Result - An automated Dashboard Creation.
+Success Criteria - Sales Team able to make better decisions and save 10% cost of total spendings. Time was reduced by 20% on data gathering.
+
+Pulled Data using power for data cleaning(ETL process)
+Prepared the star schema (Data Modelling)
+Performed Data transformation/Data Cleaning on power query 
+
+
